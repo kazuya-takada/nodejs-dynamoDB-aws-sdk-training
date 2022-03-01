@@ -1,0 +1,3 @@
+# 下記はawsとの接続認証の設定
+# 参考: https://docs.aws.amazon.com/ja_jp/sdk-for-javascript/v2/developer-guide/loading-node-credentials-json-file.html
+/config.json
